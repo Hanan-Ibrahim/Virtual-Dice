@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "gradient-white-brown-linear-1920x1080-c2-800000-f5f5f5-a-225-f-14.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "gradient-white-brown-linear-1920x1080-c2-800000-f5f5f5-a-225-f-14@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "gradient-white-brown-linear-1920x1080-c2-800000-f5f5f5-a-225-f-14@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
